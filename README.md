@@ -1,4 +1,2 @@
-# Calculator-using-python-and-tkinter
-Calculator implemented in Python using Tkinter
-
-
+# QR-code-generator-
+this is mini project with basic of python along with the 3 rd semester .
